@@ -25,7 +25,7 @@ function App() {
       <section style={{
         marginTop: "100px",
       }}>
-        <Row>
+        {/* <Row>
           <Col span={12} >
             <Form 
               title="调试地址" 
@@ -54,18 +54,20 @@ function App() {
             </Form>
           </Col>
           <Col span={12} >
-            <Timeline 
-              items={[
-                {children: "启动本地开发服务, eg: localhost:3000"},
-                {children: "在左侧输入你的地址"},
-                {children: "跳转到你的页面, 并打开调试面板(和chrome调试面板一样)"},
-              ]}
-            />
+
           </Col>
-        </Row>
+        </Row> */}
 
       </section>
-
+      <Timeline 
+        items={[
+          {children: "下载调试工具! "},
+          {children: "启动本地开发服务, eg: localhost:3000"},
+          {children: "打开调试工具, 并在输入框中输入你要调试的地址, 如: 上一步的 localhost:3000 "},
+          {children: "调试工具会跳转到你的页面, 并打开调试面板(和chrome调试面板一样)"},
+          {children: "其余的调试操作, 请参考chrome调试面板的使用方法"}
+        ]}
+      />
       <List 
         bordered
         header="调试小提示" 
