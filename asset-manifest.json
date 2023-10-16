@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/hz-debugger/static/css/main.3e7e29ad.css",
-    "main.js": "/hz-debugger/static/js/main.21884b59.js",
+    "main.js": "/hz-debugger/static/js/main.fbdc755c.js",
     "index.html": "/hz-debugger/index.html",
     "main.3e7e29ad.css.map": "/hz-debugger/static/css/main.3e7e29ad.css.map",
-    "main.21884b59.js.map": "/hz-debugger/static/js/main.21884b59.js.map"
+    "main.fbdc755c.js.map": "/hz-debugger/static/js/main.fbdc755c.js.map"
   },
   "entrypoints": [
     "static/css/main.3e7e29ad.css",
-    "static/js/main.21884b59.js"
+    "static/js/main.fbdc755c.js"
   ]
 }
