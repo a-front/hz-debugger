@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.3e7e29ad.css",
-    "main.js": "/static/js/main.21884b59.js",
-    "index.html": "/index.html",
-    "main.3e7e29ad.css.map": "/static/css/main.3e7e29ad.css.map",
-    "main.21884b59.js.map": "/static/js/main.21884b59.js.map"
+    "main.css": "/hz-debugger/static/css/main.3e7e29ad.css",
+    "main.js": "/hz-debugger/static/js/main.21884b59.js",
+    "index.html": "/hz-debugger/index.html",
+    "main.3e7e29ad.css.map": "/hz-debugger/static/css/main.3e7e29ad.css.map",
+    "main.21884b59.js.map": "/hz-debugger/static/js/main.21884b59.js.map"
   },
   "entrypoints": [
     "static/css/main.3e7e29ad.css",
